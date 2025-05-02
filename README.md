@@ -20,7 +20,7 @@
   <a href="https://github.com/Kahan64bit/StockETrade"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=StockETrade&theme=dracula" height="59%"/>
   <a href="https://github.com/Kahan64bit/Particle-Fire-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Particle-Fire-Simulation&theme=dracula" height="59%"/>
   <div>
-    <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlthev&repo=smoke-detection-113&theme=dracula" height="59%" width=auto"/>
+    <a href="https://github.com/jlthev/smoke-detection-113"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlthev&repo=smoke-detection-113&theme=dracula" height="59%" width=auto"/>
   </div>
 
 </div>
