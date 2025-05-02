@@ -15,10 +15,10 @@
 <h2 align="left">Cool Projects ✨</h2>
 <div align="center">
   <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Dotfiles&theme=dracula" height="59%"/>
-  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=KP60&theme=dracula" height="59%"/>
-  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Digital-Logic-Design&theme=dracula" height="59%"/>
-  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=StockETrade&theme=dracula" height="59%"/>
-  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Particle-Fire-Simulation&theme=dracula" height="59%"/>
+  <a href="https://github.com/Kahan64bit/KP60"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=KP60&theme=dracula" height="59%"/>
+  <a href="https://github.com/Kahan64bit/Digital-Logic-Design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Digital-Logic-Design&theme=dracula" height="59%"/>
+  <a href="https://github.com/Kahan64bit/StockETrade"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=StockETrade&theme=dracula" height="59%"/>
+  <a href="https://github.com/Kahan64bit/Particle-Fire-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Particle-Fire-Simulation&theme=dracula" height="59%"/>
   <div>
     <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlthev&repo=smoke-detection-113&theme=dracula" height="59%" width=auto"/>
   </div>
