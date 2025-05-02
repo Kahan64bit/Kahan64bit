@@ -12,6 +12,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kahan64bit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h2 align="left">Cool Projects ✨</h2>
+<div align="center">
+  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Dotfiles&theme=dracula" height="150"/>
+  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=KP60&theme=dracula" height="150"/>
+  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Digital-Logic-Design&theme=dracula" height="150"/>
+  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=StockETrade&theme=dracula" height="150"/>
+  <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kahan64bit&repo=Particle-Fire-Simulation&theme=dracula" height="150"/>
+  <div>
+    <a href="https://github.com/Kahan64bit/Dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jlthev&repo=smoke-detection-113&theme=dracula" height="150" width=auto"/>
+  </div>
+
+</div>
+
 ###
 
 <h2 align="left">Languages/Tools ✨</h2>
