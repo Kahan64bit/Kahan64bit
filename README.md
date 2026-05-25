@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">General Stats ✨</h2>
+<h2 align="left">General Stats </h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Languages/Tools ✨</h2>
+<h2 align="left">Languages/Tools </h2>
 
 ###
 
